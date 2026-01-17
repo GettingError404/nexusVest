@@ -1,0 +1,9 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/startups/page": "app/startups/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/governance/page": "app/governance/page.js",
+  "/roadmap/page": "app/roadmap/page.js",
+  "/invest/page": "app/invest/page.js"
+}
