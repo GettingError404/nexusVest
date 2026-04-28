@@ -1,5 +1,4 @@
-# Nexus Vest
-
+# Nexus Vest Website
 A premium institutional DeFi platform built with Next.js, Tailwind, Firebase, and Power BI.
 
 ## Setup
